@@ -79,8 +79,8 @@ replace `xxx` with your relevant/desired subaddress
 
 `startxfce4`
 
-then click Applications → Settings → Panel
-Tab → Display, Section → General
+then click Applications → Settings → Panel, 
+Tab → Display, Section → General, 
 Automatically hide the panel → Always
 
 Do the above for Panel 1 and Panel 2 and don’t forget the Display Power Management settings ;-)
